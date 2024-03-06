@@ -88,6 +88,7 @@ const livreurSchema = new mongoose.Schema({
 ```
 
 ## Utilisation
+`npm install`
 `npm run start`
 
 ### Exemple avec postman pour un client
